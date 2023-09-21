@@ -1,2 +1,3 @@
 # hello-world
-Create your own GitHub page assignment
+## This class
+**This class has been great. I learned how to use ***Git*** and how to customize my own Github page.**
